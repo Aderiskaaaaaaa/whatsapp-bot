@@ -15,7 +15,7 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 //global.mod = JSON.parse(fs.readFileSync('./src/moderator.json')) 
-global.owner = ['6281284760551', '6281284760551'] // Your Number
+global.owner = ['62895338334450', '62895338334450'] // Your Number
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 
 global.APIs = { // API Prefix
